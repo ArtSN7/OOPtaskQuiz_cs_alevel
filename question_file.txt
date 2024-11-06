@@ -1,0 +1,70 @@
+What does HTML stand for?
+Hyper Text Markup Language
+Hyperlinks and Text Markup Language
+Home Tool Markup Language
+Hyperlink Text Mark Language
+1
+10
+Which data structure follows the Last-In-First-Out (LIFO) principle?
+Queue
+Array
+Stack
+Tree
+3
+10
+Who is known as the father of computer science?
+Charles Babbage
+Alan Turing
+John von Neumann
+Ada Lovelace
+2
+15
+What is the time complexity of binary search in a sorted array?
+O(n)
+O(log n)
+O(n^2)
+O(1)
+2
+10
+Which of these is NOT a programming language?
+Python
+Ruby
+Java
+HTML
+4
+5
+In computer networks, what does IP stand for?
+Internet Protocol
+Internal Process
+Internet Program
+Information Protocol
+1
+10
+Which sorting algorithm has an average time complexity of O(n^2)?
+Merge Sort
+Quick Sort
+Bubble Sort
+Heap Sort
+3
+10
+Which of the following is a primary key feature of Object-Oriented Programming?
+Inheritance
+Encapsulation
+Polymorphism
+All of the above
+4
+15
+What does SQL stand for?
+Structured Query Language
+Simple Query Language
+Standard Query Language
+System Query Language
+1
+10
+In Big O notation, which represents constant time complexity?
+O(log n)
+O(1)
+O(n)
+O(n log n)
+2
+10
