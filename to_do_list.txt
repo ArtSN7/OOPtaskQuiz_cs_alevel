@@ -1,2 +1,1 @@
-- Allowing the user to add questions to the system - easy
 - A high score file - stores the name and score of the high scorers (incorporates sorting and needs a second file) - medium
