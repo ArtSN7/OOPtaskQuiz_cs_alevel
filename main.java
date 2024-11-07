@@ -9,7 +9,9 @@ class main{
 
         if (bootup.GetSystemMode() == 1){ // if user has chosen to do a quiz
 
-            new Quiz("John");
+            System.out.print("\nInput you name: ");
+
+            new Quiz(scanner.nextLine());
 
         }else{
 

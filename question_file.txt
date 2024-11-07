@@ -60,11 +60,11 @@ Simple Query Language
 Standard Query Language
 System Query Language
 1
-10
+15
 In Big O notation, which represents constant time complexity?
 O(log n)
 O(1)
 O(n)
 O(n log n)
 2
-10
+20

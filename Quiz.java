@@ -114,9 +114,12 @@ public class Quiz {
 
                 if (count == 7){ // reset count if it is the end for the set of values for each question AND create a new object
 
+
                     count = 1;
 
                     this.questions.add(new Question(question_text, answers, ra_index, points)); // adding question to the array
+
+                    answers = new String[4];
 
                 }else{
 
@@ -162,17 +165,17 @@ public class Quiz {
 
             if (question.checkAnswer(userAnswer)) { // checking the input
 
-                System.out.println("Correct!");
+                System.out.println("\nCorrect!");
 
                 this.score += question.getPointsValue(); // adding the score
 
             } else {
 
-                System.out.println("Incorrect");
+                System.out.println("\nIncorrect! Right answer: " + question.getCorrectAnswer());
 
             }
         }
-        System.out.println("FINITO LA COMEDI :) " + this.user + "managed to score " + this.score);
+        System.out.println("\nFINITO LA COMEDI :) " + this.user + " managed to score " + this.score);
         scanner.close();
         
     }
