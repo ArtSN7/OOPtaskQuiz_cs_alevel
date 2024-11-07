@@ -141,7 +141,7 @@ public class Quiz {
     // Start the quiz
     private void startQuiz() {
 
-        System.out.println("Let's begin!");
+        System.out.println("Let's begin the quiz!");
 
         Scanner scanner = new Scanner(System.in);
 
